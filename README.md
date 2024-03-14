@@ -139,7 +139,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/marcusPrado02/marcusPrado02/output/snake.svg" alt="Snake animation" />
-
-###
